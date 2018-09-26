@@ -1,5 +1,5 @@
 # Searchable Point Map template v1.4 with Google Maps and Fusion Tables
-http://mohantam.github.io/fusion-map-point
+
 ## Demos
 - http://jackdougherty.github.io/fusion-map-point/index.html
 - and index_iframe.html embedded in test page http://jackdougherty.github.io/fusion-map-point/iframe_test.html
